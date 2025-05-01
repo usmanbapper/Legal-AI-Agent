@@ -1,0 +1,7 @@
+transformers
+torch
+pymupdf
+spacy
+scikit-learn
+flask
+flask-cors
